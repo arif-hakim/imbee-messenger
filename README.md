@@ -1,6 +1,6 @@
 # Imbee Messenger
 
-A notification service using Firebase Cloud Messaging (FCM) and RabbitMQ.
+A notification service using Firebase Cloud Messaging (FCM), RabbitMQ, and MySQL.
 
 ## Prerequisites
 
